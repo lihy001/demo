@@ -1,0 +1,20 @@
+@charset 'utf-8';
+body{font-family: arial;}
+.head{height:35px;padding:4px 10px;}
+.logo{width:50px;height:35px;padding-left:50px;}
+.logo img{width:50px;height:35px;cursor:pointer;}
+.searchInput{width:30%;height:33px;border:1px solid #b8b8b8;}
+.searchSubtn{width:100px;height:35px;line-height:33px;text-align:center;cursor:pointer;font-size:16px;background-color:rgb(70,127,255);color:white}
+.head div{display:inline-block;float:left;}
+.nav{height:30px;padding:4px 10px 4px 110px;background-color:#f8f8f8}
+.menu{font-size:16px;display:inline-block;width:50px;height:30px;text-align:center;cursor:pointer;}
+.menu.active{font-weight:bolder;border-bottom:2px solid #38f;}
+.content-r{margin-left:110px;margin-right:600px;}
+.search_tool_conter{height:40px;line-height:40px;}
+.nums_text{font-size:12px;}
+.doc{padding:5px 0;}
+.docTitle{font-size:18px;display:inline-block;cursor:pointer;
+color:rgb(0,0,204);text-decoration: underline;}
+.docContent{font-size:13px;word-break: break-word;line-height:20px;padding-top:3px;}
+.docLink{font-size:13px;cursor:pointer;color:green;}
+.templates{display:none;}

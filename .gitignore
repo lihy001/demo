@@ -1,0 +1,14 @@
+.history
+.idea
+.vscode
+.metadata
+.recommenders
+.settings
+.project
+.classpath
+*.class
+bin
+target
+ehcache
+logs
+data
